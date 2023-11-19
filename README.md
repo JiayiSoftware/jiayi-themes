@@ -16,7 +16,7 @@ An example theme's file structure can look like this:
 ```
 themes/
 - <your theme name>/
-  - background.<available file extensions: image: png, jpg, other common types OR video: mp4, mov, webm>
+  - background.<available file extensions: image: png, jpg, gif, other common types OR video: mp4, mov, webm>
   - metadata.json
   - theme.css
 ```
