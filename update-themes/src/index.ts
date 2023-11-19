@@ -14,12 +14,12 @@ const getDownloadUrl = (theme: string, file: string) =>
 async function main() {
   let allThemes: IPublicTheme[] = [];
 
-  const dirs = await fs.readdir('../../../themes', {
+  const dirs = await fs.readdir('../themes', {
     withFileTypes: true,
   });
 
   for (let theme of dirs) {
-    const files = await fs.readdir(path.join('../../../themes', theme.name), {
+    const files = await fs.readdir(path.join('../themes', theme.name), {
       withFileTypes: true,
     });
 
@@ -35,7 +35,7 @@ async function main() {
           themeData.theme = getDownloadUrl(theme.name, file.name);
         } else if (file.name === 'metadata.json') {
           const meta_data = await fs.readFile(
-            path.join('../../../themes', theme.name, file.name),
+            path.join('../themes', theme.name, file.name),
             'utf8'
           );
 
