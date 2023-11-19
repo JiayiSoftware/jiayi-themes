@@ -30,7 +30,7 @@ async function main() {
     };
     for (let file of files) {
       if (file.isFile()) {
-        if (file.name.startsWith('image.')) {
+        if (file.name.startsWith('background.')) {
           themeData.bg = getDownloadUrl(theme.name, file.name);
         } else if (file.name === 'theme.css') {
           themeData.theme = getDownloadUrl(theme.name, file.name);
