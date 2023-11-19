@@ -59,7 +59,7 @@ async function main() {
   }
 
   // add JSON.stringify(allThemes, null, 2) for formatting
-  await fs.writeFile('all_themes.json', JSON.stringify(allThemes));
+  await fs.writeFile('../all_themes.json', JSON.stringify(allThemes));
 }
 
 main();
