@@ -32,4 +32,4 @@ Theme metadata is validated automatically.
 
 You can obtain your `theme.css` file within the launcher. Go to **Settings > Appearance > Show theme** to reveal your theme in File Explorer, and drop the file inside of your fork.
 
-When you're finished, open a pull request. Every theme is manually reviewed, and all correctly formatted themes will be accepted, no matter how good or bad it looks.
+When you're finished, open a pull request. Every theme is manually reviewed, and all correctly formatted themes will be accepted, [no matter how good or bad it looks](https://raw.githubusercontent.com/JiayiSoftware/jiayi-themes/main/.github/assets/bad%20theme.png).
