@@ -31,7 +31,8 @@ A `metadata.json` file should have an author and any applicable tags for your th
 ```json
 {
   "author": "DeathlyBower959",
-  "tags": ["sunset", "aesthetic", "red", "orange", "gradient"]
+  "tags": ["sunset", "aesthetic", "red", "orange", "gradient"],
+  "raw_tags": ["dark", "light", "animated"] // these are the only supported raw tags
 }
 ```
 
