@@ -17,11 +17,11 @@ jobs:
           node-version: 20
 
       - name: Install packages
-        working-directory: ./.github/workflows/update-themes
+        working-directory: ./update-themes
         run: npm ci
 
       - name: Run TS Action
-        working-directory: ./.github/workflows/update-themes
+        working-directory: ./update-themes
         run: npm run start
 
       - name: Check for modified files
@@ -32,6 +32,6 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add ./.github/workflows/update-themes/all_themes.json
+          git add all_themes.json
           git commit -m "New Theme"
           git push
