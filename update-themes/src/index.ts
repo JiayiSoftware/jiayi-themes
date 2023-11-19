@@ -25,6 +25,7 @@ async function main() {
 
     let themeData: IPublicTheme = {
       name: theme.name,
+      author: 'Unknown',
       tags: [],
     };
     for (let file of files) {
@@ -49,6 +50,7 @@ async function main() {
 
           themeData.meta = getDownloadUrl(theme.name, file.name);
           themeData.tags = result.data.tags;
+          themeData.author = result.data.author;
         } else {
           console.error('Unsupported file in theme: ' + file.name);
         }

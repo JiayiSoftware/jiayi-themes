@@ -1,5 +1,7 @@
 export interface IPublicTheme {
   name: string;
+
+  author: string;
   tags: string[];
 
   bg?: URL;
