@@ -4,7 +4,7 @@ import path from 'path';
 import { metadataSchema } from './schema';
 
 import type { IPublicTheme } from './types';
-const repo_owner = 'DeathlyBower959';
+const repo_owner = 'JiayiSoftware';
 const repo_name = 'jiayi-themes';
 const getDownloadUrl = (theme: string, file: string) =>
   new URL(
