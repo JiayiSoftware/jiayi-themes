@@ -3,6 +3,7 @@ export interface IPublicTheme {
 
   author: string;
   tags: string[];
+  raw_tags: string[];
 
   bg?: URL;
   meta?: URL;

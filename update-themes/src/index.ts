@@ -27,6 +27,7 @@ async function main() {
       name: theme.name,
       author: 'Unknown',
       tags: [],
+      raw_tags: [],
     };
     for (let file of files) {
       if (file.isFile()) {
@@ -51,6 +52,7 @@ async function main() {
           themeData.meta = getDownloadUrl(theme.name, file.name);
           themeData.tags = result.data.tags;
           themeData.author = result.data.author;
+          themeData.raw_tags = result.data.raw_tags;
         } else {
           console.error('Unsupported file in theme: ' + file.name);
         }
