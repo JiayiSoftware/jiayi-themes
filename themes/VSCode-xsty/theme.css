@@ -1,0 +1,19 @@
+/* your launcher theme - edit in settings or yourself if you know the bare minimum about css */
+
+:root {
+	--background-primary: #1F1E1F;
+	--background-secondary: #252424;
+	--accent: #017ACC;
+	--text-primary: #FFFFFF;
+	--text-accent: #FFFFFF;
+	--text-grayed: #7E7E7E;
+	--shadow: 0px 0px rgba(0, 0, 0, 0.4);
+	--transition-speed: 0s;
+	--background-image: none;
+	--background-blur: 0px;
+	--background-brightness: 100%;
+	--rounding: 5px;
+	--border-primary: #000000;
+	--border-accent: #000000;
+	--border-thickness: 0px;
+}
