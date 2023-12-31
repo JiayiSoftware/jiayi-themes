@@ -6,7 +6,7 @@ A collection of themes for [Jiayi Launcher](https://github.com/JiayiSoftware/Jia
 
 This place hosts themes and the resources that these themes depend on.
 
-[Anyone is welcome to open a pull request and add their theme to this repo](https://github.com/JiayiSoftware/jiayi-themes/edit/main/README.md#adding-a-new-theme).
+[Anyone is welcome to open a pull request and add their theme to this repo](https://github.com/JiayiSoftware/jiayi-themes#adding-a-new-theme).
 
 ## How to use
 
