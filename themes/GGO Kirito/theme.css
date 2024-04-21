@@ -1,0 +1,17 @@
+:root {
+	--background-primary: #080305;
+	--background-secondary: #040A10;
+	--accent: #DC0000;
+	--text-primary: #FFFFFF;
+	--text-accent: #FFFFFF;
+	--text-grayed: #7E7E7E;
+	--shadow: 5px 5px rgba(0, 0, 0, 0.4);
+	--transition-speed: 0.2s;
+	--background-image: url('https://raw.githubusercontent.com/JiayiSoftware/jiayi-themes/main/themes/GGO%20Kirito/background.png');
+	--background-blur: 0px;
+	--background-brightness: 40%;
+	--rounding: 0px;
+	--border-primary: #000000;
+	--border-accent: #000000;
+	--border-thickness: 0px;
+}
