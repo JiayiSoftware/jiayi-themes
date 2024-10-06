@@ -26,6 +26,14 @@ An example theme's file structure can look like this:
     │   └── theme.css
 ```
 
+### Obtaining your theme through the launcher
+
+Jiayi can export your current theme and fill out the required metadata. You can find this functionality in the themes menu.
+
+### Manually creating your theme
+
+You will have to create your own `metadata.json` and get your hands on the assets for your theme.
+
 A `metadata.json` file should have an author and any applicable tags for your theme, and could look like this:
 
 ```json
