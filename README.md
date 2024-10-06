@@ -10,7 +10,7 @@ This place hosts themes and the resources that these themes depend on.
 
 ## How to use
 
-In the future, you will be able to access the themes here right inside of the launcher.
+Themes from this repository can be accessed directly in the launcher, under Settings > Appearance > Themes menu.
 
 ## Adding a new theme
 
