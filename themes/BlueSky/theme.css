@@ -7,18 +7,11 @@
 	--text-grayed: #FFFFFF;
 	--shadow: 5px 5px rgba(0, 0, 0, 0.4);
 	--transition-speed: 0.2s;
-	--background-image: url('./themes/BlueSky/background.gif');
+	--background-image: url('https://raw.githubusercontent.com/JiayiSoftware/jiayi-themes/main/themes/BlueSky/background.gif');
 	--background-blur: 0px;
 	--background-brightness: 100%;
 	--rounding: 0px;
 	--border-primary: #000000;
 	--border-accent: #000000;
 	--border-thickness: 0px;
-}
-	--border-primary: #1E1E1E;
-	--border-accent: #C8C8C8;
-	--border-thickness: 2px;
-}rder-primary: #1E1E1E;
-	--border-accent: #C8C8C8;
-	--border-thickness: 2px;
 }
