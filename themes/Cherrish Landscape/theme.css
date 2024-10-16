@@ -1,0 +1,17 @@
+:root {
+	--background-primary: #0C0306;
+	--background-secondary: #15050A;
+	--accent: #681C36;
+	--text-primary: #D67A7A;
+	--text-accent: #FFFFFF;
+	--text-grayed: #632727;
+	--shadow: 2px 2px rgba(0, 0, 0, 0.4);
+	--transition-speed: 0.2s;
+	--rounding: 4px;
+	--border-primary: #DB7B7B;
+	--border-accent: #EE7A87;
+	--border-thickness: 0px;
+	--background-image: url('./themes/.local/Landscape/background.png');
+	--background-brightness: 100%;
+}ckground.png'), url('./themes/.local\Landscape/background.jpg');
+}
