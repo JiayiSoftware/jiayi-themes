@@ -7,13 +7,11 @@
 	--text-grayed: #ECA7A7;
 	--shadow: 4px 4px rgba(0, 0, 0, 0.4);
 	--transition-speed: 0.15s;
-	--background-image: url('./themes/blackhole/background.gif'), url('./themes/blackhole/background.png'), url('./themes/blackhole/background.jpg');
+	--background-image: url('https://raw.githubusercontent.com/JiayiSoftware/jiayi-themes/refs/heads/main/themes/Kaguya%20Shinomiya/background.png');
 	--background-blur: 0px;
 	--background-brightness: 75%;
 	--rounding: 1px;
 	--border-primary: #575757;
 	--border-accent: #E27EC2;
-	--border-thickness: 1px;
-}cent: #E27EC2;
 	--border-thickness: 1px;
 }
