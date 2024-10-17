@@ -11,7 +11,6 @@
 	--border-primary: #DB7B7B;
 	--border-accent: #EE7A87;
 	--border-thickness: 0px;
-	--background-image: url('./themes/.local/Landscape/background.png');
+	--background-image: url('https://raw.githubusercontent.com/JiayiSoftware/jiayi-themes/refs/heads/main/themes/Cherrish Landscape/background.png');
 	--background-brightness: 100%;
-}ckground.png'), url('./themes/.local\Landscape/background.jpg');
 }
