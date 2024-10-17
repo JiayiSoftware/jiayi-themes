@@ -11,6 +11,5 @@
 	--border-primary: #2B0D0D;
 	--border-accent: #592F1D;
 	--border-thickness: 1px;
-	--background-image: url('./themes/.local/Spoooky/background.png');
-}}('./themes/.local\Spoooky/background.png'), url('./themes/.local\Spoooky/background.jpg');
+	--background-image: url('https://raw.githubusercontent.com/JiayiSoftware/jiayi-themes/refs/heads/main/themes/Spoooky/background.png');
 }
