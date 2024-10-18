@@ -1,0 +1,15 @@
+:root {
+	--background-primary: #0D0601;
+	--background-secondary: #170A01;
+	--accent: #BB4400;
+	--text-primary: #FFFFFF;
+	--text-accent: #FFFFFF;
+	--text-grayed: #727272;
+	--shadow: 8px 8px rgba(0, 0, 0, 0.4);
+	--transition-speed: 0.35s;
+	--rounding: 7px;
+	--border-primary: #2B0D0D;
+	--border-accent: #592F1D;
+	--border-thickness: 1px;
+	--background-image: url('https://raw.githubusercontent.com/JiayiSoftware/jiayi-themes/refs/heads/main/themes/Spoooky/background.png');
+}
