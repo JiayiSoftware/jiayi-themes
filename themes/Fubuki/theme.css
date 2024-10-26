@@ -7,7 +7,7 @@
 	--text-grayed: #757575;
 	--shadow: 2px 2px rgba(0, 0, 0, 0.4);
 	--transition-speed: 0.2s;
-	--background-image: url('./themes/.local\Fubuki/background.gif'), url('./themes/.local\Fubuki/background.png'), url('./themes/.local\Fubuki/background.jpg');
+	--background-image: url('https://raw.githubusercontent.com/JiayiSoftware/jiayi-themes/refs/heads/main/themes/Fubuki/background.mp4');
 	--background-blur: 0px;
 	--background-brightness: 100%;
 	--rounding: 1px;
@@ -15,5 +15,3 @@
 	--border-accent: #000000;
 	--border-thickness: 1px;
 };
-}ss: 0px;
-}
